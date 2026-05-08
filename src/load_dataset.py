@@ -3,7 +3,7 @@ import shutil
 import kagglehub
  
 DATASET = "ardamavi/27-class-sign-language-dataset"
-OUT_DIR = "data"
+OUT_DIR = "../data"
  
  
 def main():

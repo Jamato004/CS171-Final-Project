@@ -2,3 +2,4 @@ X.npy
 Y.npy
 X_test.npy
 X_train.npy
+.DS_Store
