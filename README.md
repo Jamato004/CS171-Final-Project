@@ -20,15 +20,15 @@ Noah Jones, Jacob Timoteo, Chase Potter
 
 ```
 CS171-Final-Project/
-├── data/               # Dataset files (gitignored — download separately)
-├── models/             # Saved .keras model files (gitignored — download from Drive)
+├── data/                         # Dataset files (gitignored — download separately)
+├── models/                       # Saved .keras model files (gitignored — download from Drive)
 ├── notebooks/
-│   └── sign_language_cnn.ipynb
+│   └── sign_language_cnn.ipynb   # notebook containing the model training and testing
 ├── results/
 │   ├── training_history.json
 │   └── resnet50_history.json
 ├── src/
-│   └── load_dataset.py
+│   └── load_dataset.py           # file for loading the dataset into data/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
